@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://dino/3 Objects/Boxes/3.png" type="Texture" id=1]
+
+[node name="baral" type="Area2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( -75, -45 )
+scale = Vector2( 3, 3 )
+texture = ExtResource( 1 )
+centered = false
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+position = Vector2( -75, -46 )
+scale = Vector2( 3, 3 )
+polygon = PoolVector2Array( 14.6667, 25.3333, 0, 26, 0, 0, 15.3333, 0 )

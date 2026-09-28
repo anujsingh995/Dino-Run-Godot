@@ -1,0 +1,40 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://dino/Kenney Future.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://dino/Kenney Mini Square Mono.ttf" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 28
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 38
+font_data = ExtResource( 2 )
+
+[node name="HUD" type="CanvasLayer"]
+
+[node name="score label" type="Label" parent="."]
+margin_left = 17.0
+margin_top = 21.0
+margin_right = 280.0
+margin_bottom = 82.0
+custom_fonts/font = SubResource( 1 )
+text = "SCORE: "
+align = 1
+valign = 1
+
+[node name="press" type="Label" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -403.0
+margin_top = -40.0
+margin_right = 359.0
+margin_bottom = 41.0
+custom_colors/font_color = Color( 0.631373, 0.054902, 0.894118, 1 )
+custom_colors/font_color_shadow = Color( 0.00784314, 0, 0, 1 )
+custom_fonts/font = SubResource( 3 )
+text = "PRESS   UP,SPACE TO PLAY "
+align = 1
+valign = 1

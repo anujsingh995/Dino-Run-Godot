@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://dino/2.png" type="Texture" id=1]
+
+[node name="stump" type="Area2D"]
+position = Vector2( 1, 0 )
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+position = Vector2( -63.925, -49.05 )
+scale = Vector2( 3.01852, 2.80357 )
+polygon = PoolVector2Array( 33.75, 11.25, 34.0978, 21.7758, 34.4291, 27.4828, 4.2819, 29.2663, 7.26349, 21.7758, 8, 14, 10.25, 8, 19.5, 12, 27.1408, 11.0752, 31.1162, 8.22166 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( -2, -10 )
+scale = Vector2( 3, 3 )
+texture = ExtResource( 1 )

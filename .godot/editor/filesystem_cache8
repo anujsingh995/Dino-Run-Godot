@@ -1,0 +1,243 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1752742674
+17.png::CompressedTexture2D::5093225701824739599::1737700334::1751908706::1::::<><>::
+AudioStreamPlayer.tscn::PackedScene::-1::1745243103::0::1::::<><>::res://game-music-player-console-8bit-background-intro-theme-297305.mp3
+baral.tscn::PackedScene::-1::1737652225::0::1::::<><>::res://dino/3 Objects/Boxes/3.png
+bg.tscn::PackedScene::-1::1744357190::0::1::::<><>::res://dino/Jungle Asset Pack/parallax background/plx-5.png<>res://dino/Jungle Asset Pack/parallax background/plx-3.png<>res://dino/Jungle Asset Pack/parallax background/plx-4.png<>res://dino/Jungle Asset Pack/parallax background/plx-1.png<>res://dino/Jungle Asset Pack/parallax background/plx-2.png
+bird.gd::GDScript::-1::1750087366::0::1::::<>Area2D<>::
+bird.tscn::PackedScene::-1::1737638096::0::1::::<><>::res://dino/3 Objects/Boxes/Bird.png<>res://bird.gd
+default_env.tres::Environment::-1::1750247952::0::1::::<><>::
+dino.gd::GDScript::-1::1750087366::0::1::::<>KinematicBody2D<>::
+dino.tscn::PackedScene::-1::1744778207::0::1::::<><>::res://dino/sheets/DinoSprites - doux.png<>res://dino/458641__matrixxx__retro-jump-02.wav<>res://dino.gd<>res://dino/sheets/DinoSprites - vita.png<>res://dino/sheets/DinoSprites - mort.png
+game-music-player-console-8bit-background-intro-theme-297305.mp3::AudioStreamMP3::2502896256944696777::1744357672::1751908701::1::::<><>::
+gamover.tscn::PackedScene::-1::1737707821::0::1::::<><>::res://dino/Kenney Pixel Square.ttf
+ground.tscn::PackedScene::-1::1743825190::0::1::::<><>::res://dino/2 Background/ground.png
+HUD.tscn::PackedScene::-1::1737708132::0::1::::<><>::res://dino/Kenney Future.ttf<>res://dino/Kenney Mini Square Mono.ttf
+icon.png::CompressedTexture2D::3111302884076970253::1737534599::1751908702::1::::<><>::
+main.gd::GDScript::-1::1750087624::0::1::::<>Node<>::
+main.tscn::PackedScene::2884332408393244992::1751908717::0::1::::<><>::res://dino.tscn<>res://ground.tscn<>res://bg.tscn<>uid://vejwegphmxb6::::res://main.gd<>res://HUD.tscn
+stone.tscn::PackedScene::-1::1737652224::0::1::::<><>::res://dino/3 Objects/Stones/4.png
+stump.tscn::PackedScene::-1::1737652224::0::1::::<><>::res://dino/2.png
+::res://dino/::1751908707
+2.png::CompressedTexture2D::8401377449574911394::1737543809::1751908702::1::::<><>::
+17.jpg::CompressedTexture2D::6894505826090219010::1559555164::1751908707::1::::<><>::
+17.png::CompressedTexture2D::4829159378150966388::1737700273::1751908707::1::::<><>::
+458641__matrixxx__retro-jump-02.wav::AudioStreamWAV::7045524848318835378::1737521099::1751908707::1::::<><>::
+barrel.tscn::PackedScene::7010789327492751406::1737543598::0::1::::<><>::uid://c2na8iq62xim6::::res://assets/img/obstacles/barrel.png
+changelog.txt::TextFile::-1::1507401944::0::1::::<><>::
+Font.txt::TextFile::-1::1578570670::0::1::::<><>::
+Kenney Blocks.ttf::FontFile::1176167199732612997::1453242668::1751908701::1::::<><>::
+Kenney Future Narrow.ttf::FontFile::3904690601822728421::1509878190::1751908701::1::::<><>::
+Kenney Future.ttf::FontFile::3254338898963056721::1509877730::1751908701::1::::<><>::
+Kenney High Square.ttf::FontFile::8513930648706966380::1453242560::1751908701::1::::<><>::
+Kenney High.ttf::FontFile::1065860294503659101::1453242566::1751908701::1::::<><>::
+Kenney Mini Square Mono.ttf::FontFile::6221242053012201543::1648818072::1751908701::1::::<><>::
+Kenney Mini Square.ttf::FontFile::2178401526494730820::1453242462::1751908701::1::::<><>::
+Kenney Mini.ttf::FontFile::1146909686620111647::1453242434::1751908701::1::::<><>::
+Kenney Pixel Square.ttf::FontFile::8122245384851645338::1509878816::1751908701::1::::<><>::
+Kenney Pixel.ttf::FontFile::9134885832746919979::1509878822::1751908701::1::::<><>::
+Kenney Rocket Square.ttf::FontFile::1752685042979270066::1453242616::1751908701::1::::<><>::
+Kenney Rocket.ttf::FontFile::400650072472982187::1453242620::1751908701::1::::<><>::
+License.txt::TextFile::-1::1583493057::0::1::::<><>::
+Retro Gaming.ttf::FontFile::8211858030083773784::1550842230::1751908701::1::::<><>::
+::res://dino/1 Tiles/::1751908703
+Tileset.png::CompressedTexture2D::6045752704962841954::1583485932::1751908702::1::::<><>::
+Tile_01.png::CompressedTexture2D::26416943779395928::1583485969::1751908702::1::::<><>::
+Tile_02.png::CompressedTexture2D::482045187443502223::1583485969::1751908702::1::::<><>::
+Tile_03.png::CompressedTexture2D::9092641869257559756::1583485969::1751908702::1::::<><>::
+Tile_04.png::CompressedTexture2D::5745326644246673427::1583485969::1751908702::1::::<><>::
+Tile_05.png::CompressedTexture2D::1670264727158859404::1583485969::1751908702::1::::<><>::
+Tile_06.png::CompressedTexture2D::7692933135661514544::1583485969::1751908702::1::::<><>::
+Tile_07.png::CompressedTexture2D::6634022539555378030::1583485969::1751908702::1::::<><>::
+Tile_08.png::CompressedTexture2D::6341742466517011857::1583485969::1751908702::1::::<><>::
+Tile_09.png::CompressedTexture2D::6289947720459475243::1583485969::1751908702::1::::<><>::
+Tile_10.png::CompressedTexture2D::1990368399146396197::1583485969::1751908702::1::::<><>::
+Tile_11.png::CompressedTexture2D::4465230885814718773::1583485969::1751908702::1::::<><>::
+Tile_12.png::CompressedTexture2D::218975032733268806::1583485969::1751908702::1::::<><>::
+Tile_13.png::CompressedTexture2D::2441867171600134303::1583485969::1751908702::1::::<><>::
+Tile_14.png::CompressedTexture2D::479776469016091394::1583485969::1751908702::1::::<><>::
+Tile_15.png::CompressedTexture2D::1040991822744004237::1583485969::1751908702::1::::<><>::
+Tile_16.png::CompressedTexture2D::7265280496252385834::1583485969::1751908702::1::::<><>::
+Tile_17.png::CompressedTexture2D::6136195476392432397::1583485969::1751908702::1::::<><>::
+Tile_18.png::CompressedTexture2D::5527680306255997614::1583485969::1751908702::1::::<><>::
+Tile_19.png::CompressedTexture2D::826081110092613775::1583485969::1751908702::1::::<><>::
+Tile_20.png::CompressedTexture2D::4679026634806317483::1583485969::1751908702::1::::<><>::
+Tile_21.png::CompressedTexture2D::1963447793052525389::1583485969::1751908702::1::::<><>::
+Tile_22.png::CompressedTexture2D::5735033085968799970::1583485969::1751908702::1::::<><>::
+Tile_23.png::CompressedTexture2D::3021839294201435954::1583485969::1751908702::1::::<><>::
+Tile_24.png::CompressedTexture2D::5360415515076082374::1583485969::1751908702::1::::<><>::
+Tile_25.png::CompressedTexture2D::6197170810649811058::1583485969::1751908702::1::::<><>::
+Tile_26.png::CompressedTexture2D::6337333920296541886::1583485969::1751908702::1::::<><>::
+Tile_27.png::CompressedTexture2D::8342568937681152399::1583485969::1751908702::1::::<><>::
+Tile_28.png::CompressedTexture2D::1048407177444506921::1583485969::1751908702::1::::<><>::
+Tile_29.png::CompressedTexture2D::6082310063892979055::1583485969::1751908702::1::::<><>::
+Tile_30.png::CompressedTexture2D::464789247598453636::1583485969::1751908702::1::::<><>::
+Tile_31.png::CompressedTexture2D::2716018860440888324::1583485969::1751908702::1::::<><>::
+Tile_32.png::CompressedTexture2D::3313695735400995341::1583485969::1751908702::1::::<><>::
+Tile_33.png::CompressedTexture2D::5930012174290930131::1583485969::1751908702::1::::<><>::
+Tile_34.png::CompressedTexture2D::3672113880393296523::1583485969::1751908702::1::::<><>::
+Tile_35.png::CompressedTexture2D::2177366057607134292::1583485969::1751908702::1::::<><>::
+Tile_36.png::CompressedTexture2D::3746876609816896709::1583485969::1751908702::1::::<><>::
+Tile_37.png::CompressedTexture2D::9042766352144869792::1583485969::1751908702::1::::<><>::
+Tile_38.png::CompressedTexture2D::8369763336528073100::1583485969::1751908702::1::::<><>::
+Tile_39.png::CompressedTexture2D::7942028682217338693::1583485969::1751908702::1::::<><>::
+Tile_40.png::CompressedTexture2D::4476633109627073864::1583485969::1751908702::1::::<><>::
+Tile_41.png::CompressedTexture2D::256458103959888893::1583485969::1751908702::1::::<><>::
+Tile_42.png::CompressedTexture2D::4323671220945557239::1583485969::1751908703::1::::<><>::
+Tile_43.png::CompressedTexture2D::3375694707471720963::1583485969::1751908703::1::::<><>::
+Tile_44.png::CompressedTexture2D::4183027482552632539::1583485969::1751908703::1::::<><>::
+Tile_45.png::CompressedTexture2D::5471769431573496806::1583485969::1751908703::1::::<><>::
+Tile_46.png::CompressedTexture2D::3964977632045207856::1583485969::1751908703::1::::<><>::
+Tile_47.png::CompressedTexture2D::2379757528743523504::1583485969::1751908703::1::::<><>::
+Tile_48.png::CompressedTexture2D::4876704932222626170::1583485969::1751908703::1::::<><>::
+Tile_49.png::CompressedTexture2D::6949347168215082533::1583485969::1751908703::1::::<><>::
+Tile_50.png::CompressedTexture2D::8149265407906686337::1583485969::1751908703::1::::<><>::
+Tile_51.png::CompressedTexture2D::2590981462003358153::1583485969::1751908703::1::::<><>::
+Tile_52.png::CompressedTexture2D::1165130426120082941::1583485969::1751908703::1::::<><>::
+Tile_53.png::CompressedTexture2D::5170703037226118649::1583485969::1751908703::1::::<><>::
+Tile_54.png::CompressedTexture2D::5538164740437100514::1583485969::1751908703::1::::<><>::
+Tile_55.png::CompressedTexture2D::3518965553797784506::1583485969::1751908703::1::::<><>::
+Tile_56.png::CompressedTexture2D::6041260948863444879::1583485969::1751908703::1::::<><>::
+Tile_57.png::CompressedTexture2D::9113468869312356885::1583485969::1751908703::1::::<><>::
+Tile_58.png::CompressedTexture2D::411405428451936737::1583485969::1751908703::1::::<><>::
+Tile_59.png::CompressedTexture2D::168759517808011148::1583485969::1751908703::1::::<><>::
+Tile_60.png::CompressedTexture2D::922336947803465481::1583485969::1751908703::1::::<><>::
+::res://dino/2 Background/::1751908702
+Background.png::CompressedTexture2D::8781160362202539220::1583649522::1751908702::1::::<><>::
+ground.png::CompressedTexture2D::5674545887157660469::1737539243::1751908702::1::::<><>::
+::res://dino/2 Background/Layers/::1751908703
+1.png::CompressedTexture2D::6009796848262152523::1583649495::1751908703::1::::<><>::
+2.png::CompressedTexture2D::7355713736212595767::1583649499::1751908703::1::::<><>::
+3.png::CompressedTexture2D::6609624180675760900::1583649504::1751908703::1::::<><>::
+4.png::CompressedTexture2D::488710369943136974::1583649508::1751908702::1::::<><>::
+5.png::CompressedTexture2D::1108681549214445461::1583649513::1751908702::1::::<><>::
+::res://dino/3 Objects/::1751888525
+::res://dino/3 Objects/Boxes/::1751908702
+1.png::CompressedTexture2D::2697871987236969673::1583492310::1751908702::1::::<><>::
+2.png::CompressedTexture2D::2795822584970685798::1583494373::1751908702::1::::<><>::
+3.png::CompressedTexture2D::7465355713006478213::1583492322::1751908702::1::::<><>::
+4.png::CompressedTexture2D::2628954332415956163::1583492328::1751908702::1::::<><>::
+5.png::CompressedTexture2D::1762582525809652471::1583494382::1751908702::1::::<><>::
+6.png::CompressedTexture2D::3071801610876951351::1583492337::1751908702::1::::<><>::
+Bird.png::CompressedTexture2D::4309967664942122300::1737544629::1751908702::1::::<><>::
+::res://dino/3 Objects/Bushes/::1751908703
+1.png::CompressedTexture2D::550044837469676745::1583492571::1751908702::1::::<><>::
+2.png::CompressedTexture2D::2608568588919777280::1583492579::1751908702::1::::<><>::
+3.png::CompressedTexture2D::2385791581254619001::1583492587::1751908702::1::::<><>::
+4.png::CompressedTexture2D::1316459693214355707::1583492622::1751908703::1::::<><>::
+5.png::CompressedTexture2D::625692580695839892::1583492628::1751908702::1::::<><>::
+6.png::CompressedTexture2D::8074024904049472510::1583492634::1751908703::1::::<><>::
+7.png::CompressedTexture2D::6291985234734955097::1583492640::1751908703::1::::<><>::
+8.png::CompressedTexture2D::930262100279700208::1583492647::1751908703::1::::<><>::
+9.png::CompressedTexture2D::6673834666028461078::1583492652::1751908703::1::::<><>::
+::res://dino/3 Objects/Fence/::1751908703
+1.png::CompressedTexture2D::6474801797132137631::1583492667::1751908703::1::::<><>::
+2.png::CompressedTexture2D::4798980590012172510::1583492672::1751908702::1::::<><>::
+3.png::CompressedTexture2D::5360793924919877854::1583492677::1751908702::1::::<><>::
+::res://dino/3 Objects/Grass/::1751908702
+1.png::CompressedTexture2D::8781123577644876665::1583492724::1751908702::1::::<><>::
+2.png::CompressedTexture2D::4744565298558086591::1583492729::1751908702::1::::<><>::
+3.png::CompressedTexture2D::454229919925938948::1583492734::1751908702::1::::<><>::
+4.png::CompressedTexture2D::3780641079549142818::1583494288::1751908702::1::::<><>::
+5.png::CompressedTexture2D::1286885968218900947::1583492745::1751908702::1::::<><>::
+6.png::CompressedTexture2D::4445200737183263485::1583492749::1751908702::1::::<><>::
+7.png::CompressedTexture2D::5561137712844435767::1583492754::1751908702::1::::<><>::
+8.png::CompressedTexture2D::7878936506176864045::1583492760::1751908702::1::::<><>::
+9.png::CompressedTexture2D::1127014345925083376::1583492765::1751908702::1::::<><>::
+10.png::CompressedTexture2D::8336748821878251493::1583492770::1751908702::1::::<><>::
+::res://dino/3 Objects/Ladders/::1751908702
+1.png::CompressedTexture2D::7046019827034319768::1583492686::1751908702::1::::<><>::
+2.png::CompressedTexture2D::6782595581411826252::1583492692::1751908702::1::::<><>::
+3.png::CompressedTexture2D::4368904206822642192::1583492697::1751908702::1::::<><>::
+4.png::CompressedTexture2D::1122269586319627704::1583492702::1751908702::1::::<><>::
+5.png::CompressedTexture2D::6092465343604737575::1583492707::1751908702::1::::<><>::
+6.png::CompressedTexture2D::7450688352938900157::1583492714::1751908702::1::::<><>::
+::res://dino/3 Objects/Pointers/::1751908701
+1.png::CompressedTexture2D::3558904412951878132::1583492796::1751908701::1::::<><>::
+2.png::CompressedTexture2D::44052616693407841::1583492800::1751908701::1::::<><>::
+3.png::CompressedTexture2D::6828280630570513206::1583492806::1751908701::1::::<><>::
+4.png::CompressedTexture2D::6227719001834004292::1583492811::1751908701::1::::<><>::
+5.png::CompressedTexture2D::1230824636071134886::1583492818::1751908701::1::::<><>::
+6.png::CompressedTexture2D::662456667415483612::1583492824::1751908701::1::::<><>::
+7.png::CompressedTexture2D::1537764047164469500::1583494003::1751908701::1::::<><>::
+8.png::CompressedTexture2D::2752729863925112353::1583494009::1751908701::1::::<><>::
+::res://dino/3 Objects/Ridges/::1751908702
+1.png::CompressedTexture2D::965213411127219492::1583492850::1751908701::1::::<><>::
+2.png::CompressedTexture2D::4434289680537503496::1583492855::1751908701::1::::<><>::
+3.png::CompressedTexture2D::5738369407396079440::1583492863::1751908701::1::::<><>::
+4.png::CompressedTexture2D::5059727812519968281::1583492870::1751908702::1::::<><>::
+5.png::CompressedTexture2D::1352884297206532184::1583492874::1751908702::1::::<><>::
+6.png::CompressedTexture2D::149278103328515784::1583492880::1751908702::1::::<><>::
+::res://dino/3 Objects/Stones/::1751908702
+1.png::CompressedTexture2D::1619924175711626124::1583492929::1751908702::1::::<><>::
+2.png::CompressedTexture2D::2655187089581838874::1583492933::1751908702::1::::<><>::
+3.png::CompressedTexture2D::4799315094648198008::1583492938::1751908702::1::::<><>::
+4.png::CompressedTexture2D::4212986288749801132::1583492944::1751908702::1::::<><>::
+5.png::CompressedTexture2D::8164300488623484147::1583492948::1751908702::1::::<><>::
+::res://dino/3 Objects/Trees/::1751908702
+1.png::CompressedTexture2D::2946126300180332935::1583492970::1751908702::1::::<><>::
+2.png::CompressedTexture2D::7565534155054904129::1583492986::1751908702::1::::<><>::
+3.png::CompressedTexture2D::5868516216769178741::1583492994::1751908702::1::::<><>::
+::res://dino/3 Objects/Willows/::1751908702
+1.png::CompressedTexture2D::3152053454078438474::1583493006::1751908702::1::::<><>::
+2.png::CompressedTexture2D::1451015699900718466::1583493014::1751908702::1::::<><>::
+3.png::CompressedTexture2D::6328683200071512703::1583493023::1751908702::1::::<><>::
+::res://dino/4 Animated objects/::1751908702
+Chest.png::CompressedTexture2D::4383052546837324998::1583486159::1751908702::1::::<><>::
+Coin.png::CompressedTexture2D::9016011552666542994::1578915398::1751908702::1::::<><>::
+Flag.png::CompressedTexture2D::7672459728405301070::1583486176::1751908702::1::::<><>::
+Key.png::CompressedTexture2D::4544164701648695197::1578915433::1751908702::1::::<><>::
+Rune.png::CompressedTexture2D::4619401655350635209::1583486146::1751908702::1::::<><>::
+::res://dino/aseprite/::1751888525
+::res://dino/gifs/::1751888525
+::res://dino/Jungle Asset Pack/::1751908702
+mockup.png::CompressedTexture2D::7650823345725332558::1490634382::1751908702::1::::<><>::
+::res://dino/Jungle Asset Pack/Chacter with outline/::1751888525
+::res://dino/Jungle Asset Pack/Chacter with outline/files/::1751888525
+::res://dino/Jungle Asset Pack/Chacter with outline/sprites/::1751908702
+jump outline.png::CompressedTexture2D::649482264121474066::1490614218::1751908702::1::::<><>::
+landing outline.png::CompressedTexture2D::5262275694111062926::1490614282::1751908702::1::::<><>::
+::res://dino/Jungle Asset Pack/Character/::1751888526
+::res://dino/Jungle Asset Pack/Character/files/::1751888526
+::res://dino/Jungle Asset Pack/Character/sprites/::1751908702
+jump.png::CompressedTexture2D::6706959223100772466::1490615084::1751908702::1::::<><>::
+landing.png::CompressedTexture2D::2091157048382123632::1490615126::1751908702::1::::<><>::
+::res://dino/Jungle Asset Pack/jungle tileset/::1751908702
+jungle tileset.png::CompressedTexture2D::3834699085816277779::1587553250::1751908702::1::::<><>::
+::res://dino/Jungle Asset Pack/jungle tileset/files/::1751888526
+::res://dino/Jungle Asset Pack/parallax background/::1751908702
+plx-1.png::CompressedTexture2D::5590476611902247437::1490616696::1751908702::1::::<><>::
+plx-2.png::CompressedTexture2D::3009962474934651110::1490616716::1751908702::1::::<><>::
+plx-3.png::CompressedTexture2D::3059874625898329019::1490616736::1751908702::1::::<><>::
+plx-4.png::CompressedTexture2D::6979360192615690335::1490616784::1751908702::1::::<><>::
+plx-5.png::CompressedTexture2D::3924996255277344938::1490616798::1751908702::1::::<><>::
+::res://dino/misc/::1751908702
+bg.png::CompressedTexture2D::7073943373432736750::1506806826::1751908702::1::::<><>::
+shadow_2.png::CompressedTexture2D::4324504897556137129::1444654508::1751908702::1::::<><>::
+::res://dino/sheets/::1751908702
+DinoSprites - doux.png::CompressedTexture2D::7548770832974890937::1507401544::1751908702::1::::<><>::
+DinoSprites - mort.png::CompressedTexture2D::6167906716853850787::1507401570::1751908702::1::::<><>::
+DinoSprites - tard.png::CompressedTexture2D::6105327286825625437::1507401556::1751908702::1::::<><>::
+DinoSprites - vita.png::CompressedTexture2D::5517004286882762600::1507401586::1751908702::1::::<><>::
+::res://dino/__MACOSX/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/::1751908701
+._mockup.png::::-1::0::0::0::::<><>::
+::res://dino/__MACOSX/Jungle Asset Pack/Chacter with outline/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/Chacter with outline/files/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/Chacter with outline/sprites/::1751908701
+._jump outline.png::::-1::0::0::0::::<><>::
+._landing outline.png::::-1::0::0::0::::<><>::
+::res://dino/__MACOSX/Jungle Asset Pack/Character/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/Character/files/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/Character/sprites/::1751908701
+._jump.png::::-1::0::0::0::::<><>::
+._landing.png::::-1::0::0::0::::<><>::
+::res://dino/__MACOSX/Jungle Asset Pack/jungle tileset/::1751908701
+._jungle tileset.png::::-1::0::0::0::::<><>::
+::res://dino/__MACOSX/Jungle Asset Pack/jungle tileset/files/::1751888526
+::res://dino/__MACOSX/Jungle Asset Pack/parallax background/::1751908701
+._plx-1.png::::-1::0::0::0::::<><>::
+._plx-2.png::::-1::0::0::0::::<><>::
+._plx-3.png::::-1::0::0::0::::<><>::
+._plx-4.png::::-1::0::0::0::::<><>::
+._plx-5.png::::-1::0::0::0::::<><>::

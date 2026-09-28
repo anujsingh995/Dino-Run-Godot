@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/game-music-player-console-8bit-background-intro-theme-297305.mp3-22bb1fdd4f3db8112f4b12459142e3e7.mp3str"
+
+[deps]
+
+source_file="res://game-music-player-console-8bit-background-intro-theme-297305.mp3"
+dest_files=[ "res://.import/game-music-player-console-8bit-background-intro-theme-297305.mp3-22bb1fdd4f3db8112f4b12459142e3e7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
